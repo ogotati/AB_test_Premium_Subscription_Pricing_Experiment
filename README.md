@@ -1,5 +1,8 @@
 # AB_test_Premium_Subscription_Pricing_Experiment
 
+Link Google Colab:
+https://colab.research.google.com/drive/1md8Kk11n0b-DbLH1XCk_AhttRf8Mijes
+
 # Business Task:
 
 In a mobile application, users are offered a weekly premium subscription for $4.99 immediately after onboarding. 
@@ -35,5 +38,4 @@ Rollout: Implement the "discounted" variant as the default paywall for all users
 Urgency Test: A/B test a countdown timer to create a sense of urgency.  
 Free Trial Experiment: Test a "3-day Free Trial, then $4.99/week" model to lower the entry barrier and demonstrate premium value before the first charge.  
 
-Link Goofle Colab:
-https://colab.research.google.com/drive/1md8Kk11n0b-DbLH1XCk_AhttRf8Mijes
+
